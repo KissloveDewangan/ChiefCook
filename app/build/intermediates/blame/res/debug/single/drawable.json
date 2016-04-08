@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nagaland_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\nagaland_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_ingredient.png",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\ic_tab_ingredient.png"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cook.png",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\cook.png"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jk_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\jk_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mizoram_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\mizoram_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maharastra_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\maharastra_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ap_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\ap_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tamilnadu_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\tamilnadu_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bihar_food.png",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\bihar_food.png"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aru_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\aru_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cg_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\cg_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manipur_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\manipur_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cook_red.png",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\cook_red.png"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rajasthan_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\rajasthan_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\telangana_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\telangana_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\karnataka_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\karnataka_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jharkhand_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\jharkhand_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tripura_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\tripura_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_steps.png",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\ic_tab_steps.png"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\assam_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\assam_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\westbengal_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\westbengal_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goa_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\goa_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uttarakhand_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\uttarakhand_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sikkim_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\sikkim_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\odisha_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\odisha_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\up_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_nutrition.png",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\ic_tab_nutrition.png"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\har_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\har_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\meghalya_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\meghalya_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guj_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\guj_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kerala_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\kerala_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punjab_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\punjab_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mp_food.jpeg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\mp_food.jpeg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hp_food.jpg",
+        "source": "G:\\Chiefcook\\app\\src\\main\\res\\drawable\\hp_food.jpg"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\Chiefcook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\Chiefcook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]

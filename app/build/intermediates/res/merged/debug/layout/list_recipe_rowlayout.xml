@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/list_bg">
+
+    <ImageView
+        android:id="@+id/iv_recipe_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:src="@drawable/cook" />
+
+    <in.co.appadda.chiefcook.ui.CustomTextView
+        android:id="@+id/tv_recipe_names"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_toRightOf="@id/iv_recipe_icon"
+        android:text="Large Text"
+        android:textColor="#212121"
+        android:textSize="18sp"/>
+
+    <in.co.appadda.chiefcook.ui.CustomTextView
+        android:id="@+id/tv_recipe_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="15dp"
+        android:text="10 min"
+        android:textColor="#212121"
+        android:textSize="12sp" />
+
+    <in.co.appadda.chiefcook.ui.CustomTextView
+        android:id="@+id/tv_recipe_Time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="15dp"
+        android:layout_toLeftOf="@id/tv_recipe_time"
+        android:text="Time:"
+        android:textColor="#212121"
+        android:textSize="12sp" />
+
+    <in.co.appadda.chiefcook.ui.CustomTextView
+        android:id="@+id/tv_recipe_serves"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/iv_recipe_icon"
+        android:layout_alignEnd="@+id/tv_recipe_time"
+        android:layout_alignRight="@+id/tv_recipe_time"
+        android:layout_marginBottom="15dp"
+        android:text="1/2 cup"
+        android:textColor="#212121"
+        android:textSize="12sp" />
+
+    <in.co.appadda.chiefcook.ui.CustomTextView
+        android:id="@+id/tv_recipe_Serves"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tv_recipe_serves"
+        android:layout_marginRight="3dp"
+        android:layout_toLeftOf="@+id/tv_recipe_serves"
+        android:layout_toStartOf="@+id/tv_recipe_serves"
+        android:text="Serves:"
+        android:textColor="#212121"
+        android:textSize="12sp" />
+
+</RelativeLayout>

@@ -1,0 +1,979 @@
+<resources>
+    <string name="app_name">Chief Cook</string>
+    <string name="title_activity_main">Chief Cook</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-2165382606119350/5244955627</string>
+
+    <string name="favorites">Favorites</string>
+
+
+    <string-array name="all_cuisine">
+        <!--andhra-->
+        <item>Beerakaya Curry</item>
+        <item>Kodi Kura Gravy</item>
+        <item>Green Dosa</item>
+        <item>Aaku Pakodi</item>
+        <item>Masala Vada</item>
+        <item>Beetroot Pulao</item>
+        <item>Dosakaya Pappu</item>
+        <item>Lemon Rasam</item>
+        <item>Carrot Pickle</item>
+        <item>Mango Dal</item>
+        <!--aru-->
+        <item>Kharzi</item>
+        <item>Chicken Momos</item>
+        <item>Khapse</item>
+        <item>Oying</item>
+        <item>Veg Momo</item>
+        <item>Khura</item>
+        <item>Thenthuk</item>
+        <item>Zan</item>
+        <!--assam-->
+        <item>Mint Chutney</item>
+        <item>Assamese Fish Curry</item>
+        <item>Amitar Khar</item>
+        <item>Cocum</item>
+        <item>Aanguli pitha</item>
+        <item>Dhaniar Bor</item>
+        <item>Patisepta Pitha</item>
+        <item>Watermelon Fresca</item>
+        <!--bihar-->
+        <item>Litti</item>
+        <item>Thekua</item>
+        <item>Chokha</item>
+        <item>Bhaang Pakori</item>
+        <item>Bihari Kebab</item>
+        <item>Khurma</item>
+        <item>Sattu Paratha</item>
+        <item>Methi Paratha</item>
+        <item>Kadhi Bari</item>
+        <item>Dal Pitha</item>
+        <!--cg-->
+        <item>Kusli</item>
+        <item>Lawang Lata</item>
+        <item>Chana Bhatura</item>
+        <item>Lal Bhaji</item>
+        <item>Raw Banana Curry</item>
+        <item>Gojju Awalakki</item>
+        <item>Sabudane Khichadi</item>
+        <item>Murmura Laddu</item>
+        <item>Jeera Aloo</item>
+        <item>Dehrori</item>
+        <!--goa-->
+        <item>Stuffed Pomfret</item>
+        <item>Rava Fish Fry</item>
+        <item>Prawns Biryani</item>
+        <item>Pork Sorpotel</item>
+        <item>Bebinca</item>
+        <item>Fish Reacheado</item>
+        <item>Prawn Curry</item>
+        <item>Fish Curry</item>
+        <item>Chicken Cafreal</item>
+        <item>Chicken Xacuti</item>
+        <!--guj-->
+        <item>Dal Dhokli</item>
+        <item>Methi Thepla</item>
+        <item>Steamed Dhokla</item>
+        <item>Undhiyu</item>
+        <item>Samosa</item>
+        <item>Khandvi</item>
+        <item>Mathri</item>
+        <item>Bardoli Khichdi</item>
+        <item>Kadhi</item>
+        <item>Bharela Tameta</item>
+        <!--har-->
+        <item>Dudhi Halwa</item>
+        <item>Lassi</item>
+        <item>Pinni</item>
+        <item>Bajra Alu Roti</item>
+        <item>Alu Chutni Pulao</item>
+        <item>Kachri Ki Sabzi</item>
+        <item>Bathua Raita</item>
+        <item>Gajar Methi</item>
+        <item>Kadhi Pakora</item>
+        <item>Bharwan Karela</item>
+        <!--hp-->
+        <item>Channa Madra</item>
+        <item>Besan Cheela</item>
+        <item>Anardana Chicken</item>
+        <item>Sepu Badi</item>
+        <item>Kullu Trout</item>
+        <item>Sidu</item>
+        <item>Babru</item>
+        <item>Mooli Parantha</item>
+        <item>Khatta</item>
+        <item>Bhey</item>
+        <!--jharkhand-->
+        <item>Dhuska</item>
+        <item>Anarsa</item>
+        <item>Sooji Halwa</item>
+        <item>Balushahi</item>
+        <item>Peda</item>
+        <item>Besan Halwa</item>
+        <item>Ghugni</item>
+        <item>Thekua</item>
+        <item>Chokha</item>
+        <item>Litti</item>
+        <!--jammu-->
+        <item>Rogan Josh</item>
+        <item>Naat Yakkhn</item>
+        <item>Veth Chaman</item>
+        <item>Kashmiri Saag</item>
+        <item>Khatte Baingan</item>
+        <item>Dum Aloo</item>
+        <item>Haak</item>
+        <item>Nadroo Yakhni</item>
+        <item>Chicken Pulao</item>
+        <item>Kashmiri Koftas</item>
+        <!--karnataka-->
+        <item>Haal Bai</item>
+        <item>Bisi Bele Bhaat</item>
+        <item>Neer Dosa</item>
+        <item>Utthapam</item>
+        <item>Mysore Paak</item>
+        <item>Allugedda</item>
+        <item>Yereyappa</item>
+        <item>Mysore Bonda</item>
+        <item>Mangalore Buns</item>
+        <item>Rava Kesari</item>
+        <!--kerala-->
+        <item>Fish Mappas</item>
+        <item>Prawn Pollichathu</item>
+        <item>Cheera Thoran</item>
+        <item>Kozikode Biryani</item>
+        <item>Kerala Fish Curry</item>
+        <item>Pomfret Moilee</item>
+        <item>Erissery</item>
+        <item>Chicken Roast</item>
+        <item>Paal Payasam</item>
+        <item>Ulli Theeyal</item>
+        <!--maharashtra-->
+        <item>Kothimbir Vadi</item>
+        <item>Pudachi Wadi</item>
+        <item>Batata Vada</item>
+        <item>Zunka Bhakri</item>
+        <item>Pav Bhaji</item>
+        <item>Bharli Vangi</item>
+        <item>Pooran Poli</item>
+        <item>Misal Pav</item>
+        <item>Aamti</item>
+        <item>Kolhapuri Veg</item>
+        <!--manipur-->
+        <item>Khichdi</item>
+        <item>Chahou Kheer</item>
+        <item>Chaak Hoa Tann</item>
+        <item>Mangal Ooti</item>
+        <item>Tan</item>
+        <item>Chak Angouba</item>
+        <item>Sana Thongba</item>
+        <item>Kelli channa</item>
+        <!--meghalaya-->
+        <item>Aamras Aloo</item>
+        <item>Dohneiihong</item>
+        <item>Jadoh</item>
+        <item>Putharo</item>
+        <item>Pukhlein</item>
+        <item>Shir Sewain</item>
+        <item>Spicy Slaw</item>
+        <item>Tungtap</item>
+        <!--mizoram-->
+        <item>Paanch Phoran</item>
+        <item>Koat Pitha</item>
+        <item>Misa Mach Poora</item>
+        <item>Mizo Vawksa</item>
+        <item>Oying</item>
+        <item>Nai Bai</item>
+        <item>Sbai Rujung</item>
+        <item>Thukpa</item>
+        <!--mp-->
+        <item>Cashew Barfi</item>
+        <item>Puri Palak</item>
+        <item>Jalebi</item>
+        <item>Murgh Khurchan</item>
+        <item>Poha</item>
+        <item>Sabudane Khichadi</item>
+        <item>Masoor Daal</item>
+        <item>Rice Pilaf</item>
+        <item>Kusli</item>
+        <item>Lawang Lata</item>
+        <!--nagaland-->
+        <item>Chicken Stew</item>
+        <item>Brenga Chicken</item>
+        <item>Iromba</item>
+        <item>Chicken Soup</item>
+        <item>Fish Curry</item>
+        <item>Soya Bean Bhaja</item>
+        <item>Chicken Steamed</item>
+        <!--odisha-->
+        <item>Dalma</item>
+        <item>Ghanta</item>
+        <item>Buta Dali</item>
+        <item>Aamba Khatta</item>
+        <item>Khaja</item>
+        <item>Masala Makka</item>
+        <item>Machha Tarakaree</item>
+        <item>Simba Rai</item>
+        <item>Palanga Besara</item>
+        <item>Khira Gaintha</item>
+        <!--punjab-->
+        <item>Kulcha</item>
+        <item>Bhindi</item>
+        <item>Chole</item>
+        <item>Fried Arbi</item>
+        <item>Pakorewali Kadhi</item>
+        <item>Paneer Cutlet</item>
+        <item>Urad Dal</item>
+        <item>Anda Bhurji</item>
+        <item>Lemon Chicken</item>
+        <item>Turai Punjabwale</item>
+        <!--rajasthan-->
+        <item>Gatte Ki Sabzi</item>
+        <item>Bhuna Kukda</item>
+        <item>Ghewar</item>
+        <item>Safed Maas</item>
+        <item>Bati</item>
+        <item>Mirchi Vada</item>
+        <item>Panchmel Dal</item>
+        <item>Besan Bhindi</item>
+        <item>Churma Ladoo</item>
+        <item>Pyaaz Kachori</item>
+        <!--sikkim-->
+        <item>Veg Momo</item>
+        <item>Chicken Momos</item>
+        <item>Chhurpi Soup</item>
+        <item>Selroti</item>
+        <item>Chambray</item>
+        <item>Til ko Alu</item>
+        <item>Thukpa</item>
+        <item>Phagshapa</item>
+        <item>Gundruk Curry</item>
+        <item>Sapodilla Shake</item>
+        <!--tamil-->
+        <item>Meen Kozhambu</item>
+        <item>Urlai Roast</item>
+        <item>Chicken Chettinad</item>
+        <item>Medhu Vada</item>
+        <item>Cabbage Poriyal</item>
+        <item>Chicken 65</item>
+        <item>Melagu Pongal</item>
+        <item>Oats Idli</item>
+        <item>Garlic Rasam</item>
+        <item>Vengaya Sambar</item>
+        <!--telangana-->
+        <item>Beerakaya Curry</item>
+        <item>Kodi Kura Gravy</item>
+        <item>Green Dosa</item>
+        <item>Aaku Pakodi</item>
+        <item>Masala Vada</item>
+        <item>Beetroot Pulao</item>
+        <item>Dosakaya Pappu</item>
+        <item>Lemon Rasam</item>
+        <item>Carrot Pickle</item>
+        <item>Mango Dal</item>
+        <!--tripura-->
+        <item>Koat Pitha</item>
+        <item>Mosdeng</item>
+        <item>Poda Pitha</item>
+        <item>Kosoi Bwtwi</item>
+        <item>Awan Bangwi</item>
+        <item>Kothalor Chakoi</item>
+        <item>Sobai Gudok</item>
+        <item>Muya Awandru</item>
+        <item>Bhangui</item>
+        <item>Chikhvi</item>
+        <!--up-->
+        <item>Kakori Kebab</item>
+        <item>Aloo Rasedaar</item>
+        <item>Bedmi</item>
+        <item>Baingan Lonje</item>
+        <item>Keema Dum</item>
+        <item>Arhar ki Dal</item>
+        <item>Lucknow Kofta</item>
+        <item>Daal Kachori</item>
+        <item>Kesari Kheer</item>
+        <item>Allahabad Tehri</item>
+        <!--uk-->
+        <item>Chainsoo</item>
+        <item>Kafuli</item>
+        <item>Sisunak Saag</item>
+        <item>Thechwani</item>
+        <item>Roat</item>
+        <item>Phaanu</item>
+        <item>Gahat Soup</item>
+        <item>Til Chutney</item>
+        <item>Aloo ke Gutke</item>
+        <item>Jholi</item>
+        <!--wb-->
+        <item>Begun Bhaja</item>
+        <item>Bengal Fish Curry</item>
+        <item>Banana Chop</item>
+        <item>Cholar Dal</item>
+        <item>Rossogolla</item>
+        <item>Tetul Achar</item>
+        <item>Doi Maach</item>
+        <item>Foli Fish Kofta</item>
+        <item>Doi Bora</item>
+        <item>Malpua</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="all_cuisine_time">
+        <!--ap-->
+        <item>22 min</item>
+        <item>40 min</item>
+        <item>6 hr 30 min</item>
+        <item>25 min</item>
+        <item>2 hr</item>
+        <item>35 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
+        <!--aru-->
+        <item>30 min</item>
+        <item>40 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>35 min</item>
+        <item>2 hr</item>
+        <item>45 min</item>
+        <item>20 min</item>
+        <!--assam-->
+        <item>15 min</item>
+        <item>35 min</item>
+        <item>18 min</item>
+        <item>40 min</item>
+        <item>20 min</item>
+        <item>20 min</item>
+        <item>45 min</item>
+        <item>10 min</item>
+        <!--bihar-->
+        <item>40 min</item>
+        <item>45 min</item>
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>1 hr</item>
+        <item>20 min</item>
+        <item>35 min</item>
+        <item>40 min</item>
+        <item>--</item>
+        <!--cg-->
+        <item>25 min</item>
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>20 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+        <item>20 min</item>
+        <item>25 min</item>
+        <item>10 min</item>
+        <item>--</item>
+        <!--goa-->
+        <item>45 min</item>
+        <item>15 min</item>
+        <item>75 min</item>
+        <item>30 min</item>
+        <item>1 hr</item>
+        <item>13 hr</item>
+        <item>30 min</item>
+        <item>40 min</item>
+        <item>30 min</item>
+        <item>2 hr</item>
+        <!--guj-->
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+        <item>40 min</item>
+        <item>1 hr</item>
+        <item>35 min</item>
+        <item>40 min</item>
+        <item>40 min</item>
+        <item>20 min</item>
+        <!--haryana-->
+        <item>55 min</item>
+        <item>15 min</item>
+        <item>3 hr</item>
+        <item>25 min</item>
+        <item>35 min</item>
+        <item>15 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>1 hr</item>
+        <item>50 min</item>
+        <!--hp-->
+        <item>30 min</item>
+        <item>45 min</item>
+        <item>--</item>
+        <item>40 min</item>
+        <item>1 hr</item>
+        <item>35 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+        <item>35 min</item>
+        <!--jharkhand-->
+        <item>50 min</item>
+        <item>35 min</item>
+        <item>45 min</item>
+        <item>4.5 hr</item>
+        <item>12 min</item>
+        <item>40 min</item>
+        <item>45 min</item>
+        <item>45 min</item>
+        <item>30 min</item>
+        <item>40 min</item>
+        <!--jammu-->
+        <item>1 hr 30 min</item>
+        <item>1 hr</item>
+        <item>45 min</item>
+        <item>20 min</item>
+        <item>40 min</item>
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>1 hr</item>
+        <item>1 hr 10 min</item>
+        <!--karnataka-->
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>35 min</item>
+        <item>40 min</item>
+        <item>45 min</item>
+        <item>25 min</item>
+        <item>--</item>
+        <item>8 hr 30 min</item>
+        <item>4 hr 30 min</item>
+        <item>15 min</item>
+        <!--kerala-->
+        <item>35 min</item>
+        <item>35 min</item>
+        <item>25 min</item>
+        <item>25 min</item>
+        <item>45 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>1 hr 30 min</item>
+        <item>45 min</item>
+        <item>40 min</item>
+        <!--maharashtra-->
+        <item>45 min</item>
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>45 min</item>
+        <item>1 hr</item>
+        <item>30 min</item>
+        <item>30 min</item>
+        <!--manipur-->
+        <item>20 min</item>
+        <item>35 min</item>
+        <item>--</item>
+        <item>25 min</item>
+        <item>18 min</item>
+        <item>25 min</item>
+        <item>35 min</item>
+        <item>15 min</item>
+        <!--meghalaya-->
+        <item>32 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>40 min</item>
+        <item>55 min</item>
+        <item>10 min</item>
+        <!--mizoram-->
+        <item>40 min</item>
+        <item>35 min</item>
+        <item>25 min</item>
+        <item>40 min</item>
+        <item>30 min</item>
+        <item>32 min</item>
+        <item>40 min</item>
+        <item>25 min</item>
+        <!--mp-->
+        <item>15 min</item>
+        <item>35 min</item>
+        <item>6 hr 30 min</item>
+        <item>25 min</item>
+        <item>15 min</item>
+        <item>35 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
+        <!--nagaland-->
+        <item>15 min</item>
+        <item>25 min</item>
+        <item>6 hr 30 min</item>
+        <item>25 min</item>
+        <item>2 hr</item>
+        <item>35 min</item>
+        <item>30 min</item>
+        <!--odisha-->
+        <item>1 hr</item>
+        <item>40 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>1 hr</item>
+        <item>40 min</item>
+        <item>45 min</item>
+        <item>25 min</item>
+        <item>25 min</item>
+        <item>1 hr</item>
+        <!--punjab-->
+        <item>2 hr</item>
+        <item>20 min</item>
+        <item>1 hr</item>
+        <item>25 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>15 min</item>
+        <item>40 min</item>
+        <item>35 min</item>
+        <!--rajasthan-->
+        <item>35 min</item>
+        <item>45 min</item>
+        <item>1 hr</item>
+        <item>45 min</item>
+        <item>--</item>
+        <item>50 min</item>
+        <item>1 hr</item>
+        <item>35 min</item>
+        <item>40 min</item>
+        <item>35 min</item>
+        <!--sikkim-->
+        <item>35 min</item>
+        <item>40 min</item>
+        <item>18 min</item>
+        <item>--</item>
+        <item>40 min</item>
+        <item>45 min</item>
+        <item>20 min</item>
+        <item>35 min</item>
+        <item>25 min</item>
+        <item>10 min</item>
+        <!--tamil-->
+        <item>35 min</item>
+        <item>25 min</item>
+        <item>1 hr</item>
+        <item>40 min</item>
+        <item>25 min</item>
+        <item>45 min</item>
+        <item>35 min</item>
+        <item>50 min</item>
+        <item>35 min</item>
+        <item>45 min</item>
+        <!--telangana-->
+        <item>15 min</item>
+        <item>25 min</item>
+        <item>6 hr 30 min</item>
+        <item>25 min</item>
+        <item>2 hr</item>
+        <item>35 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
+        <!--tripura-->
+        <item>30 min</item>
+        <item>30 min</item>
+        <item>--</item>
+        <item>30 min</item>
+        <item>--</item>
+        <item>25 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>1 hr</item>
+        <item>30 min</item>
+        <!--up-->
+        <item>50 min</item>
+        <item>30 min</item>
+        <item>1 hr</item>
+        <item>40 min</item>
+        <item>3 hr</item>
+        <item>40 min</item>
+        <item>30 min</item>
+        <item>25 min</item>
+        <item>1 hr 30 min</item>
+        <item>1 hr 20 min</item>
+        <!--uk-->
+        <item>40 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>38 min</item>
+        <item>30 min</item>
+        <item>--</item>
+        <item>--</item>
+        <item>18 min</item>
+        <item>20 min</item>
+        <item>25 min</item>
+        <!--wb-->
+        <item>30 min</item>
+        <item>50 min</item>
+        <item>3 hr</item>
+        <item>25 min</item>
+        <item>52 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+        <item>35 min</item>
+        <item>8 hr</item>
+        <item>1 hr 10 min</item>
+    </string-array>
+
+
+
+
+    <string-array name="all_cuisine_serve">
+        <!--ap-->
+        <item>2 to 3</item>
+        <item>3</item>
+        <item>10</item>
+        <item>25</item>
+        <item>10 vadas</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>1/2 cup</item>
+        <item>4</item>
+        <!--aru-->
+        <item>1-2</item>
+        <item>3</item>
+        <item>1 bowl</item>
+        <item>2-3</item>
+        <item>6</item>
+        <item>5 pc</item>
+        <item>2</item>
+        <item>2-3</item>
+        <!--assam-->
+        <item>1 bowl</item>
+        <item>3-4</item>
+        <item>2-3</item>
+        <item>3-4</item>
+        <item>2-3</item>
+        <item>1-2</item>
+        <item>2</item>
+        <item>2</item>
+
+        <!--bihar-->
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>--</item>
+        <item>10</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>6-8 Pithas</item>
+
+        <!--cg-->
+        <item>5</item>
+        <item>6</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4-5</item>
+        <item>4</item>
+        <item>--</item>
+        <item>4</item>
+        <item>--</item>
+        <!--goa-->
+        <item>2</item>
+        <item>2</item>
+        <item>10</item>
+        <item>4</item>
+        <item>4</item>
+        <item>2</item>
+        <item>4</item>
+        <item>4</item>
+        <item>2</item>
+        <item>5</item>
+        <!--guj-->
+        <item>3-4</item>
+        <item>6</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>--</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <!--haryana-->
+        <item>4</item>
+        <item>2</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>2</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4-5</item>
+        <item>3-4</item>
+        <!--hp-->
+        <item>4</item>
+        <item>8</item>
+        <item>2</item>
+        <item>3-4</item>
+        <item>4</item>
+        <item>--</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3-4</item>
+        <item>3-4</item>
+        <!--jharkhand-->
+        <item>4-5</item>
+        <item>4</item>
+        <item>3-4</item>
+        <item>4</item>
+        <item>2-3</item>
+        <item>5-6</item>
+        <item>2-3</item>
+        <item>6-8 pitha</item>
+        <item>4</item>
+        <item>3</item>
+        <!--jammu-->
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>6</item>
+        <item>4</item>
+        <item>3</item>
+        <item>3-4</item>
+        <item>2</item>
+        <!--karnataka-->
+        <item>2-3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>2-3</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4-6</item>
+        <item>2-3</item>
+        <item>3-4</item>
+        <item>3-4</item>
+        <!--kerala-->
+        <item>3-4</item>
+        <item>3</item>
+        <item>3</item>
+        <item>25</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <!--maharashtra-->
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3-4</item>
+        <item>2</item>
+        <item>3</item>
+        <item>2-3</item>
+        <item>4</item>
+        <item>2-3</item>
+        <item>4</item>
+        <!--manipur-->
+        <item>2</item>
+        <item>2-3</item>
+        <item>4-6</item>
+        <item>2-3</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2-3</item>
+        <!--meghalaya-->
+        <item>4</item>
+        <item>2-3</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2-3</item>
+        <item>2-3</item>
+        <item>1-2</item>
+        <item>2</item>
+        <!--mizoram-->
+        <item>2-3</item>
+        <item>4</item>
+        <item>3-4</item>
+        <item>3</item>
+        <item>2-3</item>
+        <item>3</item>
+        <item>2-3</item>
+        <item>2</item>
+        <!--mp-->
+        <item>12 pc</item>
+        <item>4</item>
+        <item>3-4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2-3</item>
+        <item>1/2 cup</item>
+        <item>5</item>
+        <!--nagaland-->
+        <item>2-3</item>
+        <item>3-4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>2-3</item>
+        <item>3-4</item>
+        <!--odisha-->
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <!--punjab-->
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <!--rajasthan-->
+        <item>4</item>
+        <item>6</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>3-4</item>
+        <item>3-4</item>
+        <item>2-3</item>
+        <item>10 ladoo</item>
+        <item>4</item>
+        <!--sikkim-->
+        <item>6</item>
+        <item>3</item>
+        <item>6</item>
+        <item>8-10</item>
+        <item>6</item>
+        <item>6</item>
+        <item>2</item>
+        <item>4</item>
+        <item>4-5</item>
+        <item>2</item>
+        <!--tamil-->
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>--</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2-3</item>
+        <item>16 idli</item>
+        <item>3-4</item>
+        <item>4</item>
+        <!--telangana-->
+        <item>4</item>
+        <item>3</item>
+        <item>10</item>
+        <item>25</item>
+        <item>10 vadas</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>1/2 cup</item>
+        <item>4</item>
+        <!--tripura-->
+        <item>12 pithas</item>
+        <item>2</item>
+        <item>--</item>
+        <item>2-3</item>
+        <item>1</item>
+        <item>3-4</item>
+        <item>4</item>
+        <item>3-4</item>
+        <item>4</item>
+        <item>4</item>
+        <!--up-->
+        <item>4</item>
+        <item>3 to 4</item>
+        <item>12</item>
+        <item>10</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5 to 6</item>
+        <item>4 to 5</item>
+        <item>4</item>
+        <item>6</item>
+        <!--uk-->
+        <item>4</item>
+        <item>3 to 4</item>
+        <item>5</item>
+        <item>4</item>
+        <item>6</item>
+        <item>4</item>
+        <item>3 to 4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4-5</item>
+        <!--wb-->
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>6</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>12 pc</item>
+    </string-array>
+
+
+    <string-array name="state_name">
+        <item>AndhraPradesh Cuisine</item>
+        <item>ArunachalPradesh Cuisine</item>
+        <item>Assam Cuisine</item>
+        <item>Bihar Cuisine</item>
+        <item>Chhattisgarh Cuisine</item>
+        <item>Goa Cuisine</item>
+        <item>Gujarat Cuisine</item>
+        <item>Haryana Cuisine</item>
+        <item>Himachal Cuisine</item>
+        <item>Jharkhand Cuisine</item>
+        <item>Jammu-Kashmir Cuisine</item>
+        <item>Karnataka Cuisine</item>
+        <item>Kerala Cuisine</item>
+        <item>Maharashtra Cuisine</item>
+        <item>Manipur Cuisine</item>
+        <item>Meghalaya Cuisine</item>
+        <item>Mizoram Cuisine</item>
+        <item>MP Cuisine</item>
+        <item>Nagaland Cuisine</item>
+        <item>Odisha Cuisine</item>
+        <item>Punjab Cuisine</item>
+        <item>Rajasthan Cuisine</item>
+        <item>Sikkim Cuisine</item>
+        <item>Tamil Nadu Cuisine</item>
+        <item>Telangana Cuisine</item>
+        <item>Tripura Cuisine</item>
+        <item>UttarPradesh Cuisine</item>
+        <item>Uttarakhand Cuisine</item>
+        <item>WestBengal Cuisine</item>
+    </string-array>
+
+
+</resources>
